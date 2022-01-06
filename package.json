@@ -2,7 +2,7 @@
   "name": "project02",
   "version": "1.0.0",
   "description": "Project02",
-  "engine": {"node": "16.13.1"}
+  "engine": {"node": "16.13.1"},
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
